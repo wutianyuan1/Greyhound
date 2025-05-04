@@ -1,0 +1,4 @@
+***** log=/workspace/Greyhound/trainlog/log_2025_05_04_14_19_42_027694_rank0/megatron_output_0.log, master=localhost, nnodes=1, rank=0,                num_gpus=4, gpu_type=NVIDIA A10G gpu_memory=21.988037109375,                total_gmem=87.9521484375, hidden_size=1024, [My IP=172.31.44.91 Master IP=localhost]
+Rank 0 starts redis: [redis-server --save "" --appendonly no --bind localhost]
+Iteration, IterationTime(ms)
+Training terminated

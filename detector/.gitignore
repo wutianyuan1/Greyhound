@@ -1,0 +1,9 @@
+build
+test
+*.so
+*.png
+*.egg-info
+figs/
+dist/
+logs/
+__pycache__/

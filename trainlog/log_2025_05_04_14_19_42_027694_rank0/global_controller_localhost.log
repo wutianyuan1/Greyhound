@@ -1,0 +1,150 @@
+CRITICAL:root:write BW=497.19MB/s, read BW=443.55MB/s
+CRITICAL:root:checkpointing=0ms, restoring=0ms, initialization=10000ms
+INFO:root:===== Performing pre-check before training start =====
+INFO:root:Build DP clique: [0, 1, 2, 3]!
+INFO:root:Build DP clique: [0, 1, 2, 3]!
+INFO:root:Build DP clique: [0, 1, 2, 3]!
+INFO:root:Build DP clique: [0, 1, 2, 3]!
+INFO:root:Build PP clique: [3]!
+INFO:root:Build PP clique: [3]!
+INFO:root:Build PP clique: [2]!
+INFO:root:Build PP clique: [0]!
+INFO:root:Build PP clique: [2]!
+INFO:root:Build PP clique: [1]!
+INFO:root:Build DP clique: [0, 1, 2, 3]!
+INFO:root:Build DP clique: [0, 1, 2, 3]!
+INFO:root:Build DP clique: [0, 1, 2, 3]!
+INFO:root:Build DP clique: [0, 1, 2, 3]!
+INFO:root:Build PP clique: [0]!
+INFO:root:Build PP clique: [1]!
+INFO:root:All rings: [Clique(tag=ppstage0_dp, ranks=[0, 1, 2, 3], ncomms=4)]
+INFO:root:Computation tasks are dispatched!
+INFO:root:Computation result of rank 0 collected = (Perf: min=65.45817565917969, max=65.50579071044922, avg=65.47481689453124, std=0.01215686350263556)!!
+INFO:root:Computation result of rank 1 collected = (Perf: min=65.70291137695312, max=65.79814147949219, avg=65.73864288330078, std=0.03104937349743827)!!
+INFO:root:Computation result of rank 2 collected = (Perf: min=65.70291137695312, max=65.80941009521484, avg=65.73787460327148, std=0.03530537713613796)!!
+INFO:root:Computation result of rank 3 collected = (Perf: min=65.71826934814453, max=65.79545593261719, avg=65.74052734375, std=0.020755622539351835)!!
+INFO:root:validating ring:[3, 0, 1, 2], the corresponding tasks are [([3, 1], [0, 2]), ([0, 2], [1, 3])]
+INFO:root:task ([3, 1], [0, 2]) dispatched!
+INFO:root:Result of rank 0 collected = (Perf: min=12.824576377868652, max=20.359167098999023, avg=18.82603540420532, std=2.6288161695483905)!!
+INFO:root:Result of rank 1 collected = (Perf: min=16.792543411254883, max=17.249120712280273, avg=16.984959983825682, std=0.14500046229243935)!!
+INFO:root:Result of rank 2 collected = (Perf: min=16.80691146850586, max=17.24620819091797, avg=16.981811141967775, std=0.1434995185297135)!!
+INFO:root:Result of rank 3 collected = (Perf: min=12.823552131652832, max=20.372480392456055, avg=18.875603008270264, std=2.5577254002474183)!!
+INFO:root:********************task completed!********************
+INFO:root:task ([0, 2], [1, 3]) dispatched!
+INFO:root:Result of rank 0 collected = (Perf: min=16.1013126373291, max=16.476991653442383, avg=16.27224006652832, std=0.11278192562907446)!!
+INFO:root:Result of rank 1 collected = (Perf: min=16.066560745239258, max=16.42905616760254, avg=16.247296142578126, std=0.1292995697214317)!!
+INFO:root:Result of rank 2 collected = (Perf: min=12.651519775390625, max=12.97100830078125, avg=12.818848037719727, std=0.07567669324988237)!!
+INFO:root:Result of rank 3 collected = (Perf: min=12.6494722366333, max=12.956671714782715, avg=12.79866886138916, std=0.0863699673954733)!!
+INFO:root:********************task completed!********************
+INFO:root:[GlobalController] failslow events are reported from local: ["b'0'"]
+INFO:root:===== Fail-slow is reported to global controller, proflining =====
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=0
+INFO:root:waiting for profiling results, current #res=8
+INFO:root:===== Performing validation =====
+INFO:root:Build DP clique: [0, 1, 2, 3]!
+INFO:root:Build DP clique: [0, 1, 2, 3]!
+INFO:root:Build DP clique: [0, 1, 2, 3]!
+INFO:root:Build DP clique: [0, 1, 2, 3]!
+INFO:root:Build PP clique: [3]!
+INFO:root:Build PP clique: [3]!
+INFO:root:Build PP clique: [2]!
+INFO:root:Build PP clique: [0]!
+INFO:root:Build PP clique: [2]!
+INFO:root:Build PP clique: [1]!
+INFO:root:Build DP clique: [0, 1, 2, 3]!
+INFO:root:Build DP clique: [0, 1, 2, 3]!
+INFO:root:Build DP clique: [0, 1, 2, 3]!
+INFO:root:Build DP clique: [0, 1, 2, 3]!
+INFO:root:Build PP clique: [0]!
+INFO:root:Build PP clique: [1]!
+INFO:root:Only one clique Clique(tag=ppstage0_dp, ranks=[0, 1, 2, 3], ncomms=4) in same position, verify it!
+INFO:root:Topos to validate: [(Clique(tag=ppstage0_dp, ranks=[0, 1, 2, 3], ncomms=4), <control_plane.global_topo.GlobalTopo object at 0x77aafd47d360>), (Clique(tag=ppstage0_dp, ranks=[0, 1, 2, 3], ncomms=4), <control_plane.global_topo.GlobalTopo object at 0x77abddf34040>)]
+INFO:root:Computation tasks are dispatched!
+INFO:root:Computation result of rank 0 collected = (Perf: min=65.44384002685547, max=65.53804779052734, avg=65.46878280639649, std=0.025002197556935717)!!
+INFO:root:Computation result of rank 2 collected = (Perf: min=65.66802978515625, max=65.7509765625, avg=65.6873161315918, std=0.022973790469728268)!!
+INFO:root:Computation result of rank 3 collected = (Perf: min=65.6527328491211, max=65.76742553710938, avg=65.68514785766601, std=0.030909190841986275)!!
+INFO:root:Computation result of rank 1 collected = (Perf: min=515.4027709960938, max=515.5696411132812, avg=515.4891906738281, std=0.04399752968997995)!!
+INFO:root:validating ring:[3, 0, 1, 2], the corresponding tasks are [([3, 1], [0, 2]), ([0, 2], [1, 3])]
+INFO:root:task ([3, 1], [0, 2]) dispatched!
+INFO:root:Result of rank 0 collected = (Perf: min=17.04534339904785, max=18.536447525024414, avg=17.91004161834717, std=0.521389933221326)!!
+INFO:root:Result of rank 1 collected = (Perf: min=17.698816299438477, max=18.109439849853516, avg=17.85712661743164, std=0.12551168261378987)!!
+INFO:root:Result of rank 2 collected = (Perf: min=17.707008361816406, max=18.096128463745117, avg=17.85374755859375, std=0.11728093105571961)!!
+INFO:root:Result of rank 3 collected = (Perf: min=17.03014373779297, max=18.706432342529297, avg=17.9185791015625, std=0.5167394866662547)!!
+INFO:root:********************task completed!********************
+INFO:root:task ([0, 2], [1, 3]) dispatched!
+INFO:root:Result of rank 0 collected = (Perf: min=19.741695404052734, max=20.548608779907227, avg=20.317884826660155, std=0.24770294283138852)!!
+INFO:root:Result of rank 1 collected = (Perf: min=19.7969913482666, max=20.536319732666016, avg=20.296089553833006, std=0.2236559328132998)!!
+INFO:root:Result of rank 2 collected = (Perf: min=12.673983573913574, max=12.86143970489502, avg=12.760563087463378, std=0.04732756577651462)!!
+INFO:root:Result of rank 3 collected = (Perf: min=12.699647903442383, max=12.794879913330078, avg=12.739891147613525, std=0.031224649948362063)!!
+INFO:root:********************task completed!********************
+INFO:root:validating ring:[3, 0, 1, 2], the corresponding tasks are [([3, 1], [0, 2]), ([0, 2], [1, 3])]
+INFO:root:task ([3, 1], [0, 2]) dispatched!
+INFO:root:Result of rank 0 collected = (Perf: min=16.62259292602539, max=18.795520782470703, avg=18.019020652770998, std=0.7187525967474047)!!
+INFO:root:Result of rank 1 collected = (Perf: min=17.529855728149414, max=18.02547264099121, avg=17.850982475280762, std=0.12837661818469773)!!
+INFO:root:Result of rank 2 collected = (Perf: min=17.518592834472656, max=17.976320266723633, avg=17.84770565032959, std=0.12736366482819114)!!
+INFO:root:Result of rank 3 collected = (Perf: min=17.01478385925293, max=18.86515235900879, avg=18.074601554870604, std=0.5641889668097284)!!
+INFO:root:********************task completed!********************
+INFO:root:task ([0, 2], [1, 3]) dispatched!
+INFO:root:Result of rank 0 collected = (Perf: min=19.22969627380371, max=20.497407913208008, avg=19.94433937072754, std=0.39901914021008433)!!
+INFO:root:Result of rank 1 collected = (Perf: min=19.215360641479492, max=20.524032592773438, avg=19.92151050567627, std=0.42395345553454694)!!
+INFO:root:Result of rank 2 collected = (Perf: min=12.616703987121582, max=12.877823829650879, avg=12.756991958618164, std=0.08062205786359714)!!
+INFO:root:Result of rank 3 collected = (Perf: min=12.600319862365723, max=12.83788776397705, avg=12.737843036651611, std=0.07307378213042433)!!
+INFO:root:********************task completed!********************
+INFO:root:Mitigating fail-slow problem...
+INFO:root:Reason of fail-slow is comp
+INFO:root:[Mitigation Plan] DPcost=2096.0867404937744, PPcost=60000, time_since_slow=0.8347034454345703, min_iter=1052.2801876068115, slow_iter=1471.4975357055664
+INFO:root:[Mitigation Plan] DPcost=2096.0867404937744, PPcost=60000, time_since_slow=1002.3517608642578, min_iter=1052.2801876068115, slow_iter=1471.4975357055664
+INFO:root:[Mitigation Plan] DPcost=2096.0867404937744, PPcost=60000, time_since_slow=2003.8199424743652, min_iter=1052.2801876068115, slow_iter=1471.4975357055664
+INFO:root:[Mitigation Plan] DPcost=2096.0867404937744, PPcost=60000, time_since_slow=3005.2144527435303, min_iter=1052.2801876068115, slow_iter=1471.4975357055664
+INFO:root:[Mitigation Plan] Adjust DP
+INFO:root:DP computation results: {0: (Perf: min=65.46878280639649, max=65.46878280639649, avg=65.46878280639649, std=0), 1: (Perf: min=515.4891906738281, max=515.4891906738281, avg=515.4891906738281, std=0), 2: (Perf: min=65.6873161315918, max=65.6873161315918, avg=65.6873161315918, std=0), 3: (Perf: min=65.68514785766601, max=65.68514785766601, avg=65.68514785766601, std=0)}
+INFO:root:Min iter time: 1052.2801876068115, slow time: 1471.4975357055664, compute_time: {0: (Perf: min=65.46878280639649, max=65.46878280639649, avg=65.46878280639649, std=0), 1: (Perf: min=515.4891906738281, max=515.4891906738281, avg=515.4891906738281, std=0), 2: (Perf: min=65.6873161315918, max=65.6873161315918, avg=65.6873161315918, std=0), 3: (Perf: min=65.68514785766601, max=65.68514785766601, avg=65.68514785766601, std=0)}
+INFO:root:[DP solver] new DP plan is [9, 6, 9, 8]
+INFO:root:[Mitigation Plan] DPcost=2096.0867404937744, PPcost=60000, time_since_slow=4043.1149005889893, min_iter=1052.2801876068115, slow_iter=1471.4975357055664
+INFO:root:[Mitigation Plan] DPcost=2096.0867404937744, PPcost=60000, time_since_slow=5044.3360805511475, min_iter=1052.2801876068115, slow_iter=1471.4975357055664
+INFO:root:[Mitigation Plan] DPcost=84755.05590438843, PPcost=60000, time_since_slow=6045.8385944366455, min_iter=1052.2801876068115, slow_iter=18003.291368484497
+INFO:root:[Mitigation Plan] DPcost=1367.117166519165, PPcost=60000, time_since_slow=7047.541856765747, min_iter=1052.2801876068115, slow_iter=1325.7036209106445
+INFO:root:[Mitigation Plan] DPcost=1367.117166519165, PPcost=60000, time_since_slow=8049.068450927734, min_iter=1052.2801876068115, slow_iter=1325.7036209106445
+INFO:root:[Mitigation Plan] DPcost=1451.6913890838623, PPcost=60000, time_since_slow=9050.721883773804, min_iter=1052.2801876068115, slow_iter=1342.618465423584
+INFO:root:[Mitigation Plan] DPcost=1361.0434532165527, PPcost=60000, time_since_slow=10052.343845367432, min_iter=1052.2801876068115, slow_iter=1324.488878250122
+INFO:root:[Mitigation Plan] DPcost=1361.0434532165527, PPcost=60000, time_since_slow=11053.978204727173, min_iter=1052.2801876068115, slow_iter=1324.488878250122
+INFO:root:[Mitigation Plan] DPcost=1851.6695499420166, PPcost=60000, time_since_slow=12055.515766143799, min_iter=1052.2801876068115, slow_iter=1422.6140975952148
+INFO:root:[Mitigation Plan] DPcost=1338.4389877319336, PPcost=60000, time_since_slow=13056.169748306274, min_iter=1052.2801876068115, slow_iter=1319.9679851531982
+INFO:root:[Mitigation Plan] DPcost=1423.3934879302979, PPcost=60000, time_since_slow=14057.944536209106, min_iter=1052.2801876068115, slow_iter=1336.958885192871
+INFO:root:[Mitigation Plan] DPcost=1423.3934879302979, PPcost=60000, time_since_slow=15059.481143951416, min_iter=1052.2801876068115, slow_iter=1336.958885192871
+INFO:root:[Mitigation Plan] DPcost=1253.352165222168, PPcost=60000, time_since_slow=16060.240745544434, min_iter=1052.2801876068115, slow_iter=1302.9506206512451
+INFO:root:[Mitigation Plan] DPcost=1305.1140308380127, PPcost=60000, time_since_slow=17061.829566955566, min_iter=1052.2801876068115, slow_iter=1313.302993774414
+INFO:root:[Mitigation Plan] DPcost=1266.571283340454, PPcost=60000, time_since_slow=18063.318014144897, min_iter=1052.2801876068115, slow_iter=1305.5944442749023
+INFO:root:[Mitigation Plan] DPcost=1417.3567295074463, PPcost=60000, time_since_slow=19065.004110336304, min_iter=1052.2801876068115, slow_iter=1335.7515335083008
+INFO:root:[Mitigation Plan] DPcost=1417.3567295074463, PPcost=60000, time_since_slow=20066.580533981323, min_iter=1052.2801876068115, slow_iter=1335.7515335083008
+INFO:root:[Mitigation Plan] DPcost=1314.0249252319336, PPcost=60000, time_since_slow=21068.171977996826, min_iter=1052.2801876068115, slow_iter=1315.0851726531982
+INFO:root:[Mitigation Plan] DPcost=1357.6912879943848, PPcost=60000, time_since_slow=22069.714307785034, min_iter=1052.2801876068115, slow_iter=1323.8184452056885
+INFO:root:[Mitigation Plan] DPcost=1334.9759578704834, PPcost=60000, time_since_slow=23071.179628372192, min_iter=1052.2801876068115, slow_iter=1319.2753791809082
+INFO:root:[Mitigation Plan] DPcost=1334.9759578704834, PPcost=60000, time_since_slow=24072.7436542511, min_iter=1052.2801876068115, slow_iter=1319.2753791809082
+INFO:root:[Mitigation Plan] DPcost=1433.63356590271, PPcost=60000, time_since_slow=25074.389219284058, min_iter=1052.2801876068115, slow_iter=1339.0069007873535
+INFO:root:[Mitigation Plan] DPcost=1402.6892185211182, PPcost=60000, time_since_slow=26076.008558273315, min_iter=1052.2801876068115, slow_iter=1332.8180313110352
+CRITICAL:root:[GlobalController] Stop server running!
+CRITICAL:root:[GlobalController] Stop server!

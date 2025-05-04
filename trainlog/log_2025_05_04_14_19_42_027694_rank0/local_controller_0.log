@@ -1,0 +1,124 @@
+INFO:root:Linked to the shm buffer!
+CRITICAL:root:[Local controller] ID=0 is launched!
+CRITICAL:root:Waiting for pre-check done!
+CRITICAL:root:Waiting for pre-check done!
+CRITICAL:root:Waiting for pre-check done!
+CRITICAL:root:Waiting for pre-check done!
+CRITICAL:root:Waiting for pre-check done!
+INFO:root:No peaks in ACF, continues...
+INFO:root:No peaks in ACF, continues...
+INFO:root:No peaks in ACF, continues...
+INFO:root:No peaks in ACF, continues...
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 0: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 1: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 2: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 3: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:[2025-05-04 14:20:55.103770] Esimated iteration time: {'rank0': 1126199.5, 'rank1': 1128187.5, 'rank2': 1128122.0, 'rank3': 1135406.5}
+
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 0: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 1: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 2: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 3: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:[2025-05-04 14:21:00.492139] Esimated iteration time: {'rank0': 1126021.0, 'rank1': 1141490.0, 'rank2': 1128104.5, 'rank3': 1126856.0}
+
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 0: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 1: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 2: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 3: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:[2025-05-04 14:21:05.919204] Esimated iteration time: {'rank0': 1168363.0, 'rank1': 1171478.0, 'rank2': 1184560.0, 'rank3': 1181584.0}
+
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 0: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 1: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 2: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 3: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:[2025-05-04 14:21:11.403495] Esimated iteration time: {'rank0': 1121113.5, 'rank1': 1124546.0, 'rank2': 1122063.5, 'rank3': 1120064.0}
+
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 0: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 1: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 2: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 3: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:[2025-05-04 14:21:16.879393] Esimated iteration time: {'rank0': 1125490.5, 'rank1': 1120015.5, 'rank2': 1124339.5, 'rank3': 1126821.5}
+
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 0: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 1: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 2: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 3: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:[2025-05-04 14:21:22.552313] Esimated iteration time: {'rank0': 1234345.0, 'rank1': 1124016.5, 'rank2': 1232940.5, 'rank3': 1237094.5}
+
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 0: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Find suspective change point at t=75522095, prob=1.0
+INFO:root:Find suspective change point at t=31430403, prob=0.8474583625793457
+INFO:root:Find valid change point 44, at time: 75522095, degradation=0.15906880130631298
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 1: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Find suspective change point at t=76312296, prob=1.0
+INFO:root:Find suspective change point at t=32181484, prob=0.9808334112167358
+INFO:root:Find valid change point 44, at time: 76312296, degradation=0.15987343497862838
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 2: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Find suspective change point at t=76281300, prob=1.0
+INFO:root:Find valid change point 44, at time: 76281300, degradation=0.16011946913927905
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Rank 3: repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Find suspective change point at t=76280208, prob=1.0
+INFO:root:Find suspective change point at t=32183089, prob=0.923333466053009
+INFO:root:Find valid change point 44, at time: 76280208, degradation=0.16227013992649938
+INFO:root:[2025-05-04 14:21:28.208000] Esimated iteration time: {'rank0': 1334893.5, 'rank1': 1337568.0, 'rank2': 1320218.0, 'rank3': 1325326.5}
+
+CRITICAL:root:Failslow happens at rank=0, detail=   ids    values
+0   44  75522095
+CRITICAL:root:Failslow happens at rank=1, detail=   ids    values
+0   44  76312296
+CRITICAL:root:Failslow happens at rank=2, detail=   ids    values
+0   44  76281300
+CRITICAL:root:Failslow happens at rank=3, detail=   ids    values
+0   44  76280208
+CRITICAL:root:[Local Controller] In profiling mode, waiting for profiling results...
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:Repeat pattern starts from 0, period = 17, pattern = [3 2 3 2 3 2 3 2 6 3 2 3 2 3 2 3 2]
+INFO:root:[Local Controller] Waiting for global validation...
+INFO:root:[Local Controller] Waiting for global validation...
+INFO:root:[Local Controller] Waiting for global validation...
+INFO:root:[Local Controller] Waiting for global validation...
+INFO:root:[Local Controller] Waiting for global validation...
+INFO:root:[Local Controller] Waiting for global validation...
+INFO:root:[Local Controller] Waiting for global validation...
+INFO:root:[Local Controller] Waiting for global validation...
+INFO:root:[Local Controller] Waiting for global validation...
+INFO:root:[Local Controller] Waiting for global validation...
+INFO:root:[Local Controller] Waiting for global validation...
+INFO:root:[Local Controller] Waiting for global validation...
+INFO:root:[Local Controller] Waiting for global validation...
+INFO:root:[Local Controller] Waiting for global validation...
+INFO:root:[Local Controller] Waiting for global validation...
+INFO:root:[Local Controller] Validation is done, resumed to monitoring mode!
+INFO:root:No peaks in ACF, continues...
+INFO:root:No peaks in ACF, continues...
+INFO:root:No peaks in ACF, continues...

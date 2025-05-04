@@ -1,0 +1,14 @@
+[Local Master rank] Controller packages installed
+[Master rank] Global controller started
+[Local Master rank] Local controller started
+[Before buffer init] Rank:0, num:1532, head:0, tail:1532
+Rank: 0, global Status initialized!!
+[ncclCommInitRankConfig] nranks=4, rank=0
+Reply is not a string!
+[ncclCommInitRankConfig] nranks=1, rank=0
+[ncclCommInitRankConfig] nranks=4, rank=0
+[ncclCommInitRankConfig] nranks=1, rank=0
+Rank 0 receives pause signal, paused!
+Rank 0 receives continue signal, will continue!
+Rank 0 receives pause signal, paused!
+Rank 0 receives continue signal, will continue!

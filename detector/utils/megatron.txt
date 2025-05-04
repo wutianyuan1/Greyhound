@@ -1,0 +1,46 @@
+## Raw
+======
+# root @ ff168d931fa1 in /workspace/Megatron-LM [8:03:47] 
+$ python ../ncclprobe/get_primitives.py  ../Megatron-LM
+torch.distributed.get_rank                   164
+torch.distributed.get_world_size             43
+torch.distributed.all_gather                 10
+torch.distributed.all_reduce                 38
+torch.distributed.barrier                    86
+torch.distributed.new_group                  18
+torch.distributed.broadcast                  17
+torch.distributed.launch                     10
+torch.distributed.init_process_group         5
+torch.distributed.run                        8
+torch.distributed.is_initialized             29
+torch.distributed.ReduceOp                   17
+torch.distributed.P2POp                      10
+torch.distributed.irecv                      9
+torch.distributed.batch_isend_irecv          5
+torch.distributed.isend                      9
+torch.distributed.all_gather_object          5
+torch.distributed.get_process_group_ranks    5
+torch.distributed.gather                     1
+torch.distributed.scatter                    1
+torch.distributed.ProcessGroup               6
+torch.distributed.ring_exchange              3
+torch.distributed.get_global_rank            1
+torch.distributed.checkpoint                 8
+torch.distributed.fsdp                       1
+torch.distributed.ProcessGroupNCCL           1
+torch.distributed.is_available               11
+torch.distributed.get_backend                1
+
+
+Primitives
+=======
+torch.distributed.all_gather
+torch.distributed.all_reduce
+torch.distributed.barrier
+torch.distributed.broadcast
+torch.distributed.isend
+torch.distributed.irecv
+torch.distributed.batch_isend_irecv
+torch.distributed.gather
+torch.distributed.scatter
+torch.distributed.ring_exchange
