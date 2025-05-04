@@ -90,7 +90,7 @@ class TrainConfig(BaseConfig):
             self.model_config.to_config_string(),
             self.dataset_config.to_config_string(),
             other_config_str
-        ).strip()
+        ).strip() + " --failslow-aware"
 
 
 def run_and_log_megatron(megatron_cmd_args, log_file_handle, log_file_dir, distributed_config):
