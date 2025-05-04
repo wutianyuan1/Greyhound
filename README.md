@@ -157,6 +157,14 @@ trainlog/
   Communication test: [S1→R1, ..., Sk→Rk]  # Concurrent p2p tests
   ```
 
+- **Reactive Profiling and Validation**:
+  ```
+  ===== Fail-slow is reported to global controller, proflining =====
+  waiting for profiling results, current #res=0     # waiting for CUDAEvent-based profiling
+  ===== Performing validation =====
+  # Similar to pre-check, but only suspicious degraded groups are validated
+  ```
+
 - **Fail-Slow Mitigation**:
 - The following example shows a typical mitigation plan in handling computation stragglers.
   ```
@@ -187,8 +195,7 @@ trainlog/
     ```
 ---
 
-## Validation Metrics  
-
+## Other Validation Metrics and Experiments
 **Accuracy Testing**  
 Compare iteration time estimates in `local_controller_*.log` against ground truth values from Megatron-LM logs.  
 
