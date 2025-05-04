@@ -1,1 +1,1 @@
-docker run -dit --privileged --rm --gpus all --shm-size 32G --network host -v `pwd`/../Greyhound:/workspace/Greyhound registry.cn-hangzhou.aliyuncs.com/akarimadoka/failslow:0807 bash
+docker run -dit --privileged --rm --gpus all --shm-size 32G --network host -v `pwd`/../Greyhound:/workspace/Greyhound tianyuanwu/greyhound:ae bash
