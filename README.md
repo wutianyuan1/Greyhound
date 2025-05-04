@@ -17,7 +17,9 @@ We provide an **AWS VM instance with 4 NVIDIA A10 GPUs** to reproduce key result
   - S3: Communication-aware pipeline reconfiguration  
   - S4: Checkpoint-restart strategy  
 
-*Note:* Full reproduction of large-scale experiments and topology switches requires a cluster with hundreds of GPUs. While we cannot provide such infrastructure, reviewers with access to large-scale resources may replicate these experiments.
+*Note1:* Full reproduction of large-scale experiments and topology switches requires a cluster with hundreds of GPUs. While we cannot provide such infrastructure, reviewers with access to large-scale resources may replicate these experiments.
+
+*Note2:* If the reviewer want to use the VM, please send me an email (twubt@connect.ust.hk), and I will start it once I receive such requests.
 
 ---
 
