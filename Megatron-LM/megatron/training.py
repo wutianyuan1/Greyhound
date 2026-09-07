@@ -536,9 +536,6 @@ def setup_model_and_optimizer(model_provider_func,
 def train_step(forward_step_func, data_iterator,
                model, optimizer, opt_param_scheduler, config):
     """Single training step."""
-    ## Madoka!!! test tensor
-    test_tensor = torch.zeros(503, dtype=torch.int8).cuda()
-    dist.broadcast(test_tensor, 0)
     args = get_args()
     timers = get_timers()
 
